@@ -1,4 +1,4 @@
-Tribute Page
+[Tribute Page](https://laylark.github.io/tribute-page/)
 ===
 
 This repo is my tribute page for freeCodeCamp's Responsive Web Design Project.
